@@ -1,4 +1,4 @@
-# TechFlow AI - Company Website
+# MMS AI SOL - mmsaisol.tech
 
 A modern, responsive website for TechFlow AI, a software company specializing in artificial intelligence services.
 
@@ -193,9 +193,9 @@ MIT License - feel free to use this template for your own projects!
 ## 📞 Support
 
 For questions or support, please contact:
-- Email: hello@techflowai.com
-- Phone: +1 (555) 123-4567
+- Email: ceo@mmsaisol.tech
 
 ---
 
-**TechFlow AI** - Transforming businesses through innovative AI solutions.
+**MMS AI SOLUTION** - Transforming businesses through innovative AI solutions.
+
